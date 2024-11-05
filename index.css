@@ -82,3 +82,39 @@
 
       
 }
+#importent
+{
+    color: #34d2d0;
+    font-size: 35px;
+    font-style:oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    padding: 100px 20px 30px 40px;
+    margin-top: 220px;
+    margin-left: -400px;
+
+}
+#form
+{color: hsl(322, 74%, 34%);
+    font-size: 20px;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+    font: display 100px;
+    border: 7px solid rgb(156, 179, 178);
+background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-cyber-kitty-1170x780.jpg');
+border-end-end-radius: 20px;
+border-top-left-radius: 20px;
+width: 500px;
+height: 500px;
+padding:20px 30px 40px 5px;
+margin-left: 420px;
+margin-top:-800px;
+margin-right: 100px;
+border-top-color: aqua;
+border-left-color: blue;
+border-right-color: #bec82d;
+border-bottom-color: #ffffff;
+
+
+
+}
