@@ -1,0 +1,59 @@
+#body_1
+{
+    background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-reindeer-dog-1170x780.jpg');
+
+}
+#first
+{
+    
+    color: bisque;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 100px;
+    border:5px solid rebeccapurple;
+    border-top-color: darkgoldenrod;
+    border-right-color: #ffffff;
+    border-bottom-color: cadetblue;
+border-radius: 10px;
+ 
+
+}
+#second
+{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: aqua;
+    border: 5px solid #ffff;
+    border-radius: 20px;
+    border-top-color: blue;
+
+
+}
+#third
+{
+   font-size: 100px;
+    font-style: oblique;
+    forced-color-adjust: auto;
+    
+    border: 5px solid rgb(151, 51, 153);
+    color: bisque;
+    height: 550px;
+    border-radius: 20px;
+    
+   
+
+    
+
+
+}
+#heading
+{
+       color: #ffffff;
+       font-size: 100px;
+       border:5px solid royalblue;
+
+      
+}
